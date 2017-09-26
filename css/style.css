@@ -145,6 +145,12 @@ aside#sidebar{
 	margin-top:10px;
 }
 
+/*main-col*/
+article#main-col{
+	float: left;
+	width: 65%;
+}
+
 
 
 
