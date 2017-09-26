@@ -27,6 +27,14 @@ body{
 	color: #ffffff;
 }
 
+.dark{
+	padding: 15px;
+	background: #35424a;
+	color: #fff;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
 /*header*/
 header{
 	background: #35424a;
@@ -134,8 +142,10 @@ header a:hover{
 aside#sidebar{
 	float: right;
 	width: 30%;
-	margin-top10px;
+	margin-top:10px;
 }
+
+
 
 
 footer{
